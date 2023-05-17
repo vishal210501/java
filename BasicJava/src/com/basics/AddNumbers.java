@@ -14,7 +14,7 @@ public class AddNumbers {
 		
 		//displaying result
 		
-		System.out.println("The sum is:"+result);
+		System.out.println("The sum is="+result);
 		
 	}
 
